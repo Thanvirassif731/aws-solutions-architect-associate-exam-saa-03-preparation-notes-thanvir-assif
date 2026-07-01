@@ -1,5 +1,5 @@
 # IAM (Identity and Access Management)
-*Day 01 Notes* 
+*Day 02 Notes* 
 
 ## Key Topics
 - IAM Overview
