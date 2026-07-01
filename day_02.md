@@ -12,4 +12,4 @@
 
 
 ---
-[Previous - Day_01]() | [README](/README.md) | *Content contributed by [Thanvir Assif](https://thanvirassif.com)* | [Next - (Day_03)]()
+[Previous - Day_01](/day_01.md) | [README](/README.md) | *Content contributed by [Thanvir Assif](https://thanvirassif.com)* | [Next - (Day_03)]()
