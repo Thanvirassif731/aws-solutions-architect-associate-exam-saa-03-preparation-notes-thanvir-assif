@@ -63,4 +63,4 @@
 - **Edge & Hybrid Compute:** **Local Zones** (closer to cities for single-digit latency),**Wavelength** (embedded in 5G networks), and **Outposts** (AWS infrastructure in your own on-premises data center).
 
 ---
-[Back to the README](/README.md) | *Content contributed by [Thanvir Assif](https://thanvirassif.com)* | [Next - (Day_02)]()
+[Back to the README](/README.md) | *Content contributed by [Thanvir Assif](https://thanvirassif.com)* | [Next - (Day_02)](/day_02.md)
