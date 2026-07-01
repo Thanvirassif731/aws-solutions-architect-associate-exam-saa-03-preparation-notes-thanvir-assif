@@ -5,7 +5,7 @@
 File Name | Topics 
 ---------- | ---------
 [day_01](/day_01.md) | Global Infrastruction
-[day_02]() | 
+[day_02](/day_02.md) | IAM (Identity and Access Management)
 [day_03]() | 
 [day_04]() | 
 [day_05]() | 

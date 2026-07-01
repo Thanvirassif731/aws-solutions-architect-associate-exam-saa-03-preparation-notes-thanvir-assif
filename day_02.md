@@ -1,4 +1,4 @@
-# IAM (Identity Access Management)
+# IAM (Identity and Access Management)
 *Day 01 Notes* 
 
 ## Key Topics
